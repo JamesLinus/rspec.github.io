@@ -17,3 +17,9 @@ hr {
 article {
   margin-bottom: 77px;
 }
+
+@media (max-width: 767px) {
+  body {
+    word-wrap: break-word;
+  }
+}
